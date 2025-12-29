@@ -10,7 +10,7 @@ IDE: Emacs (Doom distro + Eglot)
     <br>
 Open to learning more and collaborating.
     <br>
-    Also, I like AI. I believe it can be used for great things.     </p> <br>
+    Also, I like AI (to an extent -.-). In fact, I am doing the AI track for my major.     </p> <br>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)
 
