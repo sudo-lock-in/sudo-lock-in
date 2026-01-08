@@ -11,8 +11,8 @@ IDE: Emacs (Doom distro + Eglot)
 I may be shy, but I am open to collaborating.
     <br>
     Also, I like AI (to an extent -.-). In fact, I am doing the AI track at my school.     <br>
-  I want to get gud & make random cool things, but I am currently a noob ToT. </p> <br>
-
+    
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)
 
 
