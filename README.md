@@ -10,9 +10,10 @@ IDE: Emacs (Doom distro + Eglot)
     <br>
 I may be shy, but I am open to collaborating.
     <br>
-    Also, I like AI (to an extent -.-). In fact, I am doing the AI track at my school.     <br>
+    Also, I like AI (to an extent -.-). In fact, I am doing the AI track at my school.    
     
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=sudo-lock-in)
+ <br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)
 
 
