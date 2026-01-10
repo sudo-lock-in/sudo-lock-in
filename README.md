@@ -11,10 +11,11 @@ IDE: Emacs (Doom distro + Eglot)
 I may be shy, but I am open to collaborating.
     <br>
     Also, I like AI (to an extent -.-). In fact, I am doing the AI track at my school.    
-    
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=sudo-lock-in)
- <br>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)
+<br>
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sudo-lock-in&theme=cobalt2&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/sudo-lock-in)
 
 
 </div>
