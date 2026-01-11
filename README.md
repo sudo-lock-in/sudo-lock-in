@@ -15,7 +15,7 @@ IDE: Emacs (Doom distro + Eglot)</h4>
 
   <h4>I am always trying to learn more.
   <br>
-Though I am shy, I am open to collaborating.</h4>
+And I may be shy, but I am open to collaborating.</h4>
     <br>
     
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)](https://leetcode.com/u/sudo-lock-in/)
