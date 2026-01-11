@@ -1,15 +1,21 @@
 <div align="center">
-  
-   ![e24](https://github.com/user-attachments/assets/99ec8256-f356-46ab-9687-1f08808c4e95) 
-   
+
+   <h2>About Me</h2>
   <h4>
-My current programming languages: Java, Python, JavaScript.
+    OS: Linux Mint
     <br>
-OS: I use Linux Mint.
+Languages: Java, Python, JavaScript, CSS, HTML
     <br>
-IDE: Emacs (Doom distro + Eglot)
+    Libraries: Pygame, Swift
     <br>
-I may be shy, but I am open to collaborating.</h4>
+IDE: Emacs (Doom distro + Eglot)</h4>
+    <br>
+    
+![e24](https://github.com/user-attachments/assets/99ec8256-f356-46ab-9687-1f08808c4e95) 
+
+  <h4>I am always trying to learn more.
+  <br>
+Though I am shy, I am open to collaborating.</h4>
     <br>
     
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)
