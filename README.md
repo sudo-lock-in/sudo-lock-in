@@ -18,7 +18,7 @@ IDE: Emacs (Doom distro + Eglot)</h4>
 Though I am shy, I am open to collaborating.</h4>
     <br>
     
-![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)](https://leetcode.com/u/sudo-lock-in/)
 <br>
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sudo-lock-in&theme=cobalt2&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/sudo-lock-in)
