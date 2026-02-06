@@ -21,7 +21,4 @@ And I may be shy, but I am open to collaborating.</h4>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)](https://leetcode.com/u/sudo-lock-in/)
 <br>
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sudo-lock-in&theme=cobalt2&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/sudo-lock-in)
-
-
 </div>
