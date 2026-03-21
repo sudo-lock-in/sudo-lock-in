@@ -4,7 +4,7 @@
   <b>
     Linux & Emacs user. I love FOSS!
     <br>
- I interested in SWE :D I can program in Java, Python, or JavaScript.
+ I interested in SWE & AI :D I can program in Python, Java, Kotlin, or JavaScript.
     <br>
     <br>
 
