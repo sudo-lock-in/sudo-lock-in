@@ -15,7 +15,7 @@
   <br>
 </b>
     
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in)](https://leetcode.com/u/sudo-lock-in/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in?theme=unicorn)
 <br>
 
 </div>
