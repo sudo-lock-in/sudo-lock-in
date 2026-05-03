@@ -10,9 +10,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in?theme=unicorn)
 
-</div>
-
-
 ## Technical Skills
 
 | Category | Technologies |
@@ -20,4 +17,9 @@
 | **Languages** | Python, Java, Kotlin, SQL, JavaScript, HTML/CSS |
 | **Libraries/Frameworks** | Pandas, Streamlit, Ktor, Pytest, JUnit, SQLite, Pygame, JavaFX |
 | **Developer Tools** | MySQL, Git/GitHub, Emacs, VS Code, IntelliJ, SSH, Linux, Gradle, Claude, Copilot, Ollama |
+
+</div>
+
+
+
 
