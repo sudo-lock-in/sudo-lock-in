@@ -6,8 +6,6 @@
 
 **Check out my stars and pinned projects :D**
 
-[📄 View my Resume](./Resume.pdf)
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in?theme=unicorn)](https://leetcode.com/u/sudo-lock-in/)
 
 ## Technical Skills
