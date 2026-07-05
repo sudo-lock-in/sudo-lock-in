@@ -6,6 +6,7 @@
 
 ## Tech 
 - ThinkPad P14s Gen 2
+- AMD Ryzen 7 Pro
 - 32GB RAM
 - 1TB SSD
 - CachyOS
