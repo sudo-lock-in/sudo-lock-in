@@ -2,7 +2,7 @@
 
 # AJ Thompson
 - Software Engineer Intern at Unadat
-- [Tech Fellow](github.com/ajthompson-tf) at CodePath
+- [Tech Fellow](https://www.github.com/ajthompson-tf) at CodePath
 
 ## Tech 
 - ThinkPad P14s Gen 2
