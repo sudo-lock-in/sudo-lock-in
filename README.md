@@ -9,7 +9,9 @@
 - 32GB RAM
 - 1TB SSD
 - CachyOS
----
+
+<br>
+
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sudo-lock-in?theme=unicorn)](https://leetcode.com/u/sudo-lock-in/)
 
